@@ -1,2 +1,2 @@
-# queso-night
-starbound multiplayer server
+# queso-night 
+starbound multiplayer server of serious business.
